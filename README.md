@@ -29,19 +29,6 @@ Current build status
         <img alt="macOS" src="https://img.shields.io/travis/com/tudat-team/tudat-feedstock/master.svg?label=macOS">
       </a>
     </td>
-  </tr><tr>
-    <td>Appveyor</td>
-    <td>
-      <a href="https://ci.appveyor.com/project/tudat-team/tudat-feedstock/branch/master">
-        <img alt="windows" src="https://img.shields.io/appveyor/ci/tudat-team/tudat-feedstock/master.svg?label=Windows">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>Linux_ppc64le</td>
-    <td>
-      <img src="https://img.shields.io/badge/ppc64le-disabled-lightgrey.svg" alt="ppc64le disabled">
-    </td>
   </tr>
 </table>
 
